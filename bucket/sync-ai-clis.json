@@ -1,12 +1,12 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "One command to detect, install, and keep AI coding CLIs up to date (Claude Code, Codex, Gemini, Kiro, Antigravity)",
   "homepage": "https://github.com/hyeonbungi/sync-ai-clis",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/hyeonbungi/sync-ai-clis/releases/download/v0.2.1/sync-ai-clis-x86_64-pc-windows-msvc.zip",
-      "hash": "be33e52f6d7b7c42e92aee825d84a983852697cfcff9e3036edfe7877501a89a"
+      "url": "https://github.com/hyeonbungi/sync-ai-clis/releases/download/v0.2.2/sync-ai-clis-x86_64-pc-windows-msvc.zip",
+      "hash": "d4765da50766d79db76af1da2b89baf02e0308ed83613c0cafc5a275826d01ad"
     }
   },
   "bin": "sync-ai-clis.exe",
